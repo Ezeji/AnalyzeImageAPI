@@ -9,7 +9,7 @@ The image analyzed is stored in a database and the date of analysis created auto
 ## Aim:
 This api can be used for crime monitoring and detection for an area. 
 To achieve this, a step further in the innovation can be employed being the application of IoT. 
-In this case, CCTV cameras are mounted on specific locations so as to capture images on realtime. The images are downloaded from a workstation which is passed to a platform-specific application(desktop or web or mobile app) for processing.
+In this case, cameras are mounted on specific locations so as to capture images on realtime. The images are downloaded from a workstation which is passed to a platform-specific application(desktop or web or mobile app) for processing.
 Information processed from the image can be used to track criminals with a trusted accuracy as provided from the api result.
 
 ## Project Dependencies:
