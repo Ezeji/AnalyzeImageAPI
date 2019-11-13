@@ -2,7 +2,7 @@
 
 ## Overview: 
 This RESTful API which is in its version 1.0 demonstrates analysis of an image content with a sample image. 
-Analysis include: Detection of objects, Facial Recognition, Emotion, Location of Event, Landmarks.etc 
+Analysis result include: Detection of objects, Facial Recognition, Emotion, Location of Event, Landmarks.etc 
 An image and email address is sent to the api endpoint to which the analysis result is sent to the provided email as an attachment.
 The image analyzed is stored in a database and the date of analysis created automatically upon analysis.
 
