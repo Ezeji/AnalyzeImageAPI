@@ -17,9 +17,9 @@ The Computer Vision AI service from Microsoft was used for this project. To use 
 SendGrid API was used for sending of emails. To use this, do signup on the portal to obtain an api key.
 
 ##### Development Tools:
-1. Visual Studio 2019
-1. .NET Core 3.0
-1. Microsoft SQL Server
+* Visual Studio 2019
+* .NET Core 3.0
+* Microsoft SQL Server
 
 **Link to Analyze Image API V1.0 documentation:**
 https://documenter.getpostman.com/view/8070931/SW7UaqK7?version=latest
