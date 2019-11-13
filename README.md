@@ -18,7 +18,7 @@ SendGrid API was used for sending of emails. To use this, do signup on the porta
 
 ## Development Tools:
 * Visual Studio 2019
-* .NET Core 3.0
+* ASP.NET Core 3.0
 * Microsoft SQL Server
 
 **Link to Analyze Image API V1.0 documentation:**
